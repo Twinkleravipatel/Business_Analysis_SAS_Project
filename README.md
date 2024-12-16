@@ -1,4 +1,4 @@
-#Forecasting Airbnb Prices in Cambridge, Massachusetts: “Regression Analysis”#
+# Forecasting Airbnb Prices in Cambridge, Massachusetts: “Regression Analysis”
 
 Objective: This study explores the factors influencing the pricing of Airbnb listings in Cambridge, Massachusetts. Through regression analysis, the project identifies key variables that significantly impact listing prices and provides insights into pricing strategies for hosts.
 
